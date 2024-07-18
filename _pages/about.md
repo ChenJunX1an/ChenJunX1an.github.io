@@ -12,4 +12,4 @@ Hi! I am Junxian Chen(陈俊先), a recent graduate from Hunan University, where
 
 My research interest lies in 3D understanding and reconstruction. I'm open to potential collaborations, feel free to drop me an email if you are interested in :)
 
-You can find my CV here: [XX's Curriculum Vitae](PHD-application-Junxian-Chen-cv.pdf) or [个人简历](../assets/cjx-cv-chinese.pdf)
+You can find my CV here: [Junxian Chen's Curriculum Vitae](PHD-application-Junxian-Chen-cv.pdf) or [个人简历](../assets/cjx-cv-chinese.pdf)
