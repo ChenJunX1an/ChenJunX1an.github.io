@@ -15,6 +15,4 @@ citation: 'Junxian Chen, Ying Liu, Yiqi Liang, Dandan Long, Xiaolin He and Ruihu
 <a href='https://github.com/ChenJunX1an/SDNet'>Code</a>
 
 
-This paper is about Point Cloud Completion
-
-Recommended citation: Junxian Chen, Ying Liu, Yiqi Liang, Dandan Long, Xiaolin He and Ruihui Li. (2023). "SD-Net Spatially-Disentangled Point Cloud Completion Network." <i>ACM Multimedia 2023</i>. 1(1).
+Recommended citation: Junxian Chen, Ying Liu, Yiqi Liang, Dandan Long, Xiaolin He and Ruihui Li. (2023). "SD-Net Spatially-Disentangled Point Cloud Completion Network." <i>ACM Multimedia 2023</i>.
