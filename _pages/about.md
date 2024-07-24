@@ -17,6 +17,3 @@ You can find my CV here: [Junxian Chen's Curriculum Vitae](../assets/PHD-applica
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=400&t=n&d=95kn_whFuE6HBnSKgIFQbHxyNzkKkP7lZ6Zdg6sKxRg"></script>
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=95kn_whFuE6HBnSKgIFQbHxyNzkKkP7lZ6Zdg6sKxRg"></script>
