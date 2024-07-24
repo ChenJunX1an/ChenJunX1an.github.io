@@ -14,9 +14,9 @@ My research interest lies in 3D understanding and reconstruction. I'm open to po
 
 You can find my CV here: [Junxian Chen's Curriculum Vitae](../assets/PHD-application-Junxian-Chen-cv.pdf) or [个人简历](../assets/cjx-cv-chinese.pdf)
 
-<div class="center">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=300&d=95kn_whFuE6HBnSKgIFQbHxyNzkKkP7lZ6Zdg6sKxRg"></script>
-</div>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=400&t=n&d=95kn_whFuE6HBnSKgIFQbHxyNzkKkP7lZ6Zdg6sKxRg"></script>
+
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=95kn_whFuE6HBnSKgIFQbHxyNzkKkP7lZ6Zdg6sKxRg"></script>
